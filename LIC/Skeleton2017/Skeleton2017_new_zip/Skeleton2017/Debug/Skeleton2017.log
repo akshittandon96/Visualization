@@ -1,0 +1,32 @@
+﻿  sample.cpp
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(645): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(646): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(647): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(665): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(669): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(670): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(671): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(675): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(676): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(677): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(681): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(683): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(687): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(688): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(689): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(692): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(694): warning C4305: '=': truncation from 'double' to 'float'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1151): warning C4060: switch statement contains no 'case' or 'default' labels
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1757): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1758): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1791): warning C4305: '=': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1937): warning C4018: '<': signed/unsigned mismatch
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2109): warning C4101: 'jitter': unreferenced local variable
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2126): warning C4101: 'h': unreferenced local variable
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2126): warning C4101: 'w': unreferenced local variable
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2304): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2308): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2309): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2313): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+d:\coursework fall 2018\visualization\assignments\backup\skeleton2017(assignment6)\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2314): warning C4305: 'argument': truncation from 'double' to 'GLfloat'
+  Skeleton2017.vcxproj -> D:\Coursework Fall 2018\Visualization\Assignments\Backup\Skeleton2017(Assignment6)\Skeleton2017\Skeleton2017_new_zip\Debug\Skeleton2017.exe

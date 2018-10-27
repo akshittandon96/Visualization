@@ -1,0 +1,34 @@
+﻿  sample.cpp
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(330): warning C4091: 'typedef ': ignored on left of 'node' when no variable is declared
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(334): warning C4091: 'typedef ': ignored on left of 'lineseg' when no variable is declared
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(339): warning C4091: 'typedef ': ignored on left of 'quad' when no variable is declared
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(654): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(655): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(656): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(674): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(678): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(679): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(680): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(684): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(685): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(686): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(690): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(692): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(696): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(697): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(698): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(701): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(703): warning C4305: '=': truncation from 'double' to 'float'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1893): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1894): warning C4305: 'initializing': truncation from 'double' to 'GLfloat'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1927): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1961): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1962): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1963): warning C4305: '=': truncation from 'double' to 'GLfloat'
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1976): warning C4018: '<': signed/unsigned mismatch
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(1977): warning C4018: '<': signed/unsigned mismatch
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2114): warning C4101: 'jitter': unreferenced local variable
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2132): warning C4101: 'h': unreferenced local variable
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2132): warning C4101: 'w': unreferenced local variable
+c:\users\akshi\visualstudioprojects\skeleton2017\skeleton2017_new_zip\skeleton2017\sample.cpp(2256): warning C4018: '<': signed/unsigned mismatch
+  Skeleton2017.vcxproj -> C:\Users\akshi\VisualStudioProjects\Skeleton2017\Skeleton2017_new_zip\Debug\Skeleton2017.exe
